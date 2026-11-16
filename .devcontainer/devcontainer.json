@@ -1,0 +1,30 @@
+{
+	"name": "cachemore",
+	"build": {
+		"dockerfile": "Dockerfile",
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+					"dbaeumer.vscode-eslint",
+					"esbenp.prettier-vscode",
+					"naumovs.color-highlight"
+			],
+			"settings": {
+				"eslint.format.enable": true,
+				"editor.suggestSelection": "first",
+				"editor.codeActionsOnSave": {
+					"source.fixAll.eslint": "explicit"
+				},
+				"eslint.run": "onSave",
+				"javascript.updateImportsOnFileMove.enabled": "always",
+				"[typescriptreact]": {
+					"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+				},
+				"[json]": {
+					"editor.defaultFormatter": "esbenp.prettier-vscode"
+				}
+			}
+		}
+	}
+}

@@ -94,7 +94,6 @@ export function Home() {
           lineHeight="2.2rem"
           display="flex"
           gap="4px"
-          fontFamily="TTNorms-Light"
         >
           <PlaceIcon
             color="error"
@@ -112,7 +111,6 @@ export function Home() {
           lineHeight="2.4rem"
           display="flex"
           gap="4px"
-          fontFamily="TTNorms-Light"
         >
           <CalendarMonthIcon
             color="error"

@@ -150,7 +150,7 @@ export function CountryRoadsChallenge() {
           At each location, you are searching for an ammo can container with
           some familiar-looking decorations (we can't give away all our
           surprises, can we).{' '}
-          <strong style={{ fontFamily: 'KGRedHands', fontSize: '0.9rem' }}>
+          <strong style={{ fontSize: '0.9rem' }}>
             The caches will not be placed until Thursday (5/22) morning and some
             will have a lock combination provided by the cache pages - so please
             do not try to search for the caches before 10 am on Thursday (5/22).
@@ -176,7 +176,7 @@ export function CountryRoadsChallenge() {
           complete the series, so take time to explore each of these unique
           locations. There is no prize for finishing first, to slow down and
           enjoy the scenic tour of our country roads. Absolutely{' '}
-          <strong style={{ fontFamily: 'KGRedHands', fontSize: '0.9rem' }}>
+          <strong style={{ fontSize: '0.9rem' }}>
             NO NIGHT CACHING
           </strong>{' '}
           will be permitted for this series. Don't be the reason we are forced
