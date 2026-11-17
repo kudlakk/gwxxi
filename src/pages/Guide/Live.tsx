@@ -247,7 +247,7 @@ function TimelineItem({
         color: 'black',
         border: `1px solid ${CHARCOAL}`,
         borderRadius: '8px',
-        fontFamily: 'Quicksand-Bold',
+        fontFamily: 'CachemoreBody-Bold',
       }}
       iconStyle={{
         background:

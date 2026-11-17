@@ -12,7 +12,7 @@ export function BoldKol(
   >,
 ) {
   return (
-    <strong {...props} style={{ fontFamily: 'Quicksand-Bold', ...props.style }}>
+    <strong {...props} style={{ fontFamily: 'CachemoreBody-Bold', ...props.style }}>
       {props.children}
     </strong>
   )

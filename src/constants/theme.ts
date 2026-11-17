@@ -13,31 +13,31 @@ export const YELLOW = '#d5af34'
 
 export const theme = createTheme({
   typography: {
-    fontFamily: 'Quicksand',
+    fontFamily: 'CachemoreBody',
     allVariants: {
       color: CHARCOAL,
     },
     h1: {
       textAlign: 'center',
-      fontFamily: 'TradeGothic-Bold',
+      fontFamily: 'CachemoreHead-Bold',
       color: GREEN,
       textTransform: 'none',
     },
     h2: {
       textAlign: 'center',
-      fontFamily: 'TradeGothic-Bold',
+      fontFamily: 'CachemoreHead-Bold',
       color: BLUE,
       textTransform: 'none',
     },
     h3: {
       textAlign: 'center',
-      fontFamily: 'TradeGothic-Bold',
+      fontFamily: 'CachemoreHead-Bold',
       color: BLUE,
       textTransform: 'none',
     },
     h4: {
       textAlign: 'center',
-      fontFamily: 'TradeGothic-Bold',
+      fontFamily: 'CachemoreHead-Bold',
       color: BLUE,
       textTransform: 'none',
     },
